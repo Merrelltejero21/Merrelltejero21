@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merrelltejero21&label=Profile%20views&color=0e75b6&style=flat" alt="merrelltejero21" /> </p>
-<img align="right" height="150" src="https://i.pinimg.com/originals/58/e7/47/58e7472337b14f1883ddffc30ce9c991.gif"  />
+<img align="right" height="250" src="https://i.pinimg.com/originals/58/e7/47/58e7472337b14f1883ddffc30ce9c991.gif"  />
 
 
 - 📫 How to reach me **merrelltejero@gmail.com**
