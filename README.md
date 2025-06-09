@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h1>
+<h3 align="center">Hi 👋! My name is Aldrin and I'm a Full-Stack Developer</h3>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/58/e7/47/58e7472337b14f1883ddffc30ce9c991.gif"  />
 
 ###
 
